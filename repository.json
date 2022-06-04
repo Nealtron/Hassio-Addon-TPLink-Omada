@@ -1,6 +1,6 @@
   
 {
-  "name": "Matt's Home Assistant Add-Ons",
-  "url": "https://github.com/KristopherMackowiak/Hassio-Addons",
-  "maintainer": "MattFryer"
+  "name": "TP-Link Omada v5 Forked Test Add-Ons",
+  "url": "https://github.com/Nealtron/Hassio-Addon-TPLink-Omada",
+  "maintainer": "Nealtron"
 }
